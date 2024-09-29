@@ -1,0 +1,11 @@
+C:\Apps\OOPPrinciplies\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+C:\Apps\OOPPrinciplies\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+C:\Apps\OOPPrinciplies\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+C:\Apps\OOPPrinciplies\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\OOPPrinciplies\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Apps\OOPPrinciplies\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+C:\Apps\OOPPrinciplies\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Apps\OOPPrinciplies\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+C:\Apps\OOPPrinciplies\Polymorphism\obj\Debug\net6.0\refint\Polymorphism.dll
+C:\Apps\OOPPrinciplies\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+C:\Apps\OOPPrinciplies\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll

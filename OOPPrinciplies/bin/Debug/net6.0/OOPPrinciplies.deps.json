@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OOPPrinciplies/1.0.0": {
+        "dependencies": {
+          "Abstraction": "1.0.0",
+          "Encapsulation": "1.0.0",
+          "Inheritence": "1.0.0",
+          "Polymorphism": "1.0.0"
+        },
+        "runtime": {
+          "OOPPrinciplies.dll": {}
+        }
+      },
+      "Abstraction/1.0.0": {
+        "runtime": {
+          "Abstraction.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Encapsulation/1.0.0": {
+        "runtime": {
+          "Encapsulation.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Inheritence/1.0.0": {
+        "runtime": {
+          "Inheritence.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Polymorphism/1.0.0": {
+        "runtime": {
+          "Polymorphism.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOPPrinciplies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Encapsulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inheritence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Polymorphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
