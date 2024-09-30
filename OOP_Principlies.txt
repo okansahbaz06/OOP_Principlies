@@ -1,0 +1,11 @@
+﻿1. Encapsulation (Kapsülleme):
+Encapsulation, bir nesnenin verilerini dış dünyadan gizlemeyi ve yalnızca belirli metotlar aracılığıyla bu verilere erişim sağlamayı ifade eder. Böylece veri gizliliği ve güvenliği sağlanır. Örneğin, sınıflardaki özellikler (fields) genellikle private olarak tanımlanır ve bu verilere erişim için get ve set metotları (ya da property'ler) kullanılır.
+
+2. Abstraction (Soyutlama):
+Abstraction, karmaşık bir sistemi basitleştirmek amacıyla yalnızca önemli detayların öne çıkarılması, gereksiz detayların gizlenmesidir. Bu, soyut sınıflar (abstract classes) ve arayüzler (interfaces) kullanılarak sağlanır. Abstraction, kullanıcının yalnızca ihtiyaç duyduğu işlevleri bilmesini sağlar, sistemin nasıl çalıştığıyla ilgilenmesini engeller.
+
+3. Inheritance (Kalıtım):
+Inheritance, bir sınıfın başka bir sınıftan türetilmesi yoluyla özelliklerini ve metotlarını devralmasını sağlar. Bu sayede kod tekrarını önler ve daha organize, yapılandırılmış bir kod yapısı oluşturur. Bir temel sınıf (parent/base class) oluşturulur ve diğer sınıflar bu sınıftan türeyerek (child/derived class) onun özelliklerini kullanır veya özelleştirir.
+
+4. Polymorphism (Çok Biçimlilik):
+Polymorphism, bir nesnenin farklı şekillerde davranabilmesini sağlar. Aynı metodun farklı sınıflarda farklı şekillerde uygulanması bu prensibin örneğidir. Polymorphism, genellikle method overriding (metot ezme) ve method overloading (metot aşırı yükleme) ile sağlanır. Bu prensip, aynı isimde bir fonksiyonun farklı sınıflarda farklı işlemler yapabilmesi anlamına gelir.

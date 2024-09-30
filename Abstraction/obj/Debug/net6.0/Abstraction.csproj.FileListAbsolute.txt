@@ -9,3 +9,18 @@ C:\Apps\OOPPrinciplies\Abstraction\obj\Debug\net6.0\Abstraction.dll
 C:\Apps\OOPPrinciplies\Abstraction\obj\Debug\net6.0\refint\Abstraction.dll
 C:\Apps\OOPPrinciplies\Abstraction\obj\Debug\net6.0\Abstraction.pdb
 C:\Apps\OOPPrinciplies\Abstraction\obj\Debug\net6.0\ref\Abstraction.dll
+D:\C# Çalışmalar\OOP_Principlies\Abstraction\obj\Debug\net6.0\Abstraction.csproj.AssemblyReference.cache
+D:\C# Çalışmalar\OOP_Principlies\Abstraction\obj\Debug\net6.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Çalışmalar\OOP_Principlies\Abstraction\obj\Debug\net6.0\Abstraction.AssemblyInfoInputs.cache
+D:\C# Çalışmalar\OOP_Principlies\Abstraction\obj\Debug\net6.0\Abstraction.AssemblyInfo.cs
+D:\C# Çalışmalar\OOP_Principlies\Abstraction\obj\Debug\net6.0\Abstraction.csproj.CoreCompileInputs.cache
+D:\C# Çalışmalar\OOP_Principlies\Abstraction\obj\Debug\net6.0\Abstraction.dll
+D:\C# Çalışmalar\OOP_Principlies\Abstraction\obj\Debug\net6.0\refint\Abstraction.dll
+D:\C# Çalışmalar\OOP_Principlies\Abstraction\obj\Debug\net6.0\Abstraction.pdb
+D:\C# Çalışmalar\OOP_Principlies\Abstraction\bin\Debug\net6.0\Abstraction.exe
+D:\C# Çalışmalar\OOP_Principlies\Abstraction\bin\Debug\net6.0\Abstraction.deps.json
+D:\C# Çalışmalar\OOP_Principlies\Abstraction\bin\Debug\net6.0\Abstraction.runtimeconfig.json
+D:\C# Çalışmalar\OOP_Principlies\Abstraction\bin\Debug\net6.0\Abstraction.dll
+D:\C# Çalışmalar\OOP_Principlies\Abstraction\bin\Debug\net6.0\Abstraction.pdb
+D:\C# Çalışmalar\OOP_Principlies\Abstraction\obj\Debug\net6.0\Abstraction.genruntimeconfig.cache
+D:\C# Çalışmalar\OOP_Principlies\Abstraction\obj\Debug\net6.0\ref\Abstraction.dll

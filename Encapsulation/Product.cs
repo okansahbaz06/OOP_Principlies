@@ -34,11 +34,7 @@
 
         #region Second Method
 
-        public int StockCountSecond
-        {
-            get { return stockCount; }
-            set { stockCount = 5; }
-        }
+        public int StockCountSecond { get { return stockCount; } set { stockCount = 5; } }
 
         #endregion
 
