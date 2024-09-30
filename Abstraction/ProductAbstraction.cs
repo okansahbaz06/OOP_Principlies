@@ -6,20 +6,20 @@ using System.Threading.Tasks;
 
 namespace Abstraction
 {
-    //Bu prensipte amaç kullanıcıyı arka planda hangi işlemlerin döndüğü ile uğraştırmak yerine sadece girdi ve çıktıları bilerek çalışmasını sağlamaktır. Bu örnekte, soyutlama sayesinde Product sınıfı, tüm ürünlerin sahip olması gereken ortak özellik ve davranışları belirtir (örneğin HasStock()), ancak her ürün bu davranışları kendi ihtiyaçlarına göre özelleştirir.
-    public abstract class Product
+    //The goal of this principle is to ensure that the user does not have to deal with the underlying operations and can work only with the inputs and outputs. In this example, through abstraction, the Product class specifies common properties and behaviors that all products should have (such as HasStock()), but each product customizes these behaviors according to its specific needs.
+    public abstract class ProductAbstraction
     {
         public int stock = 5;
         public abstract void HasStock();
     }
-    public class AcerComputer : Product
+    public class AcerComputer : ProductAbstraction
     {
         public override void HasStock()
         {
             Console.WriteLine("Stokta Yok");
         }
     }
-    public class IPhone16Series : Product
+    public class IPhone16Series : ProductAbstraction
     {
         public override void HasStock()
         {

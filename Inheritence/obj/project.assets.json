@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Çalışmalar\\OOP_Principlies\\Inheritence\\Inheritence.csproj",
-      "projectName": "Inheritence",
-      "projectPath": "D:\\C# Çalışmalar\\OOP_Principlies\\Inheritence\\Inheritence.csproj",
+      "projectUniqueName": "D:\\C# Çalışmalar\\OOP_Principlies\\Inheritence\\Inheritance.csproj",
+      "projectName": "Inheritance",
+      "projectPath": "D:\\C# Çalışmalar\\OOP_Principlies\\Inheritence\\Inheritance.csproj",
       "packagesPath": "C:\\Users\\update\\.nuget\\packages\\",
       "outputPath": "D:\\C# Çalışmalar\\OOP_Principlies\\Inheritence\\obj\\",
       "projectStyle": "PackageReference",

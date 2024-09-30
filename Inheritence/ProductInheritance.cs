@@ -18,7 +18,7 @@ namespace Inheritence
             phone.UseAI();
         }
     }
-    public class Product
+    public class ProductInheritance
     {
         public string? Name { get; set; }
         public void Color ()
@@ -26,7 +26,7 @@ namespace Inheritence
             Console.WriteLine($"{Name} is Black");
         }
     }
-    public class Phone : Product
+    public class Phone : ProductInheritance
     {
         public void UseAI()
         {

@@ -1,23 +1,23 @@
 ﻿namespace Encapsulation
 {
-    //Bu örnekte stockCount field' ını StockCount, GetStockCount methodlarıyla kapsülleyerek dışarıya sadece bu methodlar üzerinden erişim sağlanabilmesini sağladık bu sayede Encapsulation prensibine uyduk.
+    //In this example, we encapsulated the stockCount field by using the StockCount property and the GetStockCount method, allowing external access only through these methods. This ensures compliance with the Encapsulation principle.
 
     public class Program
     {
-        //stockCount field ına direk değil method üzerinden erişim sağladık.
+        //We accessed the stockCount field not directly, but through the method.
         static void Main(string[] args)
         {
-            ProductStock pstock = new ProductStock();
-            //birinci yöntem
+            ProductEncapsulation pstock = new ProductEncapsulation();
+            //first method
             pstock.StockCountFirst();
             Console.WriteLine(pstock.GetStockCount());
 
-            // ikinci yöntem
+            // second method
             Console.WriteLine(pstock.StockCountSecond);
 
         }
     }
-    public class ProductStock
+    public class ProductEncapsulation
     {
         private int stockCount;
         #region First Method

@@ -23,7 +23,7 @@ namespace Polymorphism
             fridge.Freeze();
         }
     }
-    public class Product
+    public class ProductPolymorphism
     {
         public string? Name { get; set; }
 
@@ -33,7 +33,7 @@ namespace Polymorphism
 
         }
     }
-    public class Phone : Product
+    public class Phone : ProductPolymorphism
     {
         public override void Color()
         {
@@ -44,7 +44,7 @@ namespace Polymorphism
             Console.WriteLine($"{Name} use AI");
         }
     }
-    public class Fridge : Product
+    public class Fridge : ProductPolymorphism
     {
         public override void Color()
         {
